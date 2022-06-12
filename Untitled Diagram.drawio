@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-12T03:19:21.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="ktFSqWJMwqX71c0mBj-h" version="20.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-12T05:54:28.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="Z2UaNKwg8G_LvES8PEKe" version="20.0.0" type="github">
   <diagram id="xxvJoeNEQX-5-OpNRaRt" name="Page-1">
     <mxGraphModel dx="1354" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,10 +7,10 @@
         <mxCell id="t_7nqAjx7V8skKUMj0ap-2" value="数据" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="360" y="480" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="t_7nqAjx7V8skKUMj0ap-3" value="人工智能" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="t_7nqAjx7V8skKUMj0ap-3" value="人工智能" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="530" y="570" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="t_7nqAjx7V8skKUMj0ap-4" value="数字孪生" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="t_7nqAjx7V8skKUMj0ap-4" value="数字孪生" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="360" y="670" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t_7nqAjx7V8skKUMj0ap-9" value="生产" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -25,10 +25,25 @@
             <mxPoint x="530" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t_7nqAjx7V8skKUMj0ap-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="t_7nqAjx7V8skKUMj0ap-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540.0000000000005" y="650" as="sourcePoint" />
-            <mxPoint x="450" y="700" as="targetPoint" />
+            <mxPoint x="530.0000000000005" y="660" as="sourcePoint" />
+            <mxPoint x="460" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t_7nqAjx7V8skKUMj0ap-14" value="实时数据" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="710" as="sourcePoint" />
+            <mxPoint x="350" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t_7nqAjx7V8skKUMj0ap-15" value="产业实体" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="140" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t_7nqAjx7V8skKUMj0ap-23" value="赋能" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="750" as="sourcePoint" />
+            <mxPoint x="230" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
